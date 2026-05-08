@@ -16,9 +16,12 @@ that allows students to register and get instant admission analysis.
 ## ▶️ How to Run
 
 git clone https://github.com/shivajibundela/student-registration-app.git
+
 cd student-registration-app
+
 pip install streamlit
-streamlit run student.py
+
+streamlit run Student_Registration.py
 
 ## 📸 Screenshot
 <img width="948" height="500" alt="Screenshot 2026-05-08 101533" src="https://github.com/user-attachments/assets/6c4e3feb-f864-48df-88ee-f1e0afaa4d2b" />
